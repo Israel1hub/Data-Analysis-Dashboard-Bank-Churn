@@ -8,3 +8,6 @@ walking away. Are they unhappy with our services, or are competitors winning the
 project aims to uncover the secret patterns behind customer churn by digging into their 
 demographics, behaviors, complaints, satisfaction scores, and product usage. Let's find out who’s 
 leaving, why they’re leaving, and what we can do to keep them!
+
+## Dataset used 
+https://docs.google.com/spreadsheets/d/1-dPCgGlKRVRzFJA4S34Tl-EHPk9SWJ2q/edit?usp=drive_link&ouid=105395184555657070583&rtpof=true&sd=true
