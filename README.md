@@ -1,7 +1,7 @@
 
-#BANK CHURN ANALYSIS (Interactive dashboard and analysis using MS excel) 
+# BANK CHURN ANALYSIS (Interactive dashboard and analysis using MS excel) 
 
-##Problem Statement:
+## Problem Statement:
 Why are some customers ghosting our bank?
 In recent months, we've noticed that a growing number of customers are closing their accounts and 
 walking away. Are they unhappy with our services, or are competitors winning their hearts? This 
