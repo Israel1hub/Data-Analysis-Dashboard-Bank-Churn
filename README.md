@@ -9,6 +9,29 @@ project aims to uncover the secret patterns behind customer churn by digging int
 demographics, behaviors, complaints, satisfaction scores, and product usage. Let's find out who’s 
 leaving, why they’re leaving, and what we can do to keep them!
 
-## Dataset used 
 - <a href="https://docs.google.com/spreadsheets/d/1-dPCgGlKRVRzFJA4S34Tl-EHPk9SWJ2q/edit?usp=drive_link&ouid=105395184555657070583&rtpof=true&sd=true">Dataset</a>
+
+## Questions
+1. Who are our churned customers? 
+ What are their age groups, credit scores, gender, geography, and card types? 
+2. Is there a link between churn and satisfaction scores or complaints? 
+3. Do customers with low product engagement tend to churn more? 
+4. Does having a credit card or being an active member reduce churn? 
+5. Are high earners or those with higher balances more loyal? 
+6. What role does tenure play in churn likelihood? 
+7. Which card types are more prone to churn? 
+8. Are there any geographic regions with higher churn rates? 
+9. Does churn correlate with the number of points earned or card usage? 
+10. Can we identify a customer churn risk profile for early detection? 
+## KPIs to Track: 
+1. Churn Rate (%) = (Number of churned customers / Total customers) × 100 
+2. Churn Rate by Geography 
+3. Average Credit Score of Churned vs Retained Customers 
+4. Satisfaction Score Distribution by Churn Status 
+5. % of Churned Customers with Complaints 
+6. Tenure vs Churn Rate 
+7. Product Holding and Churn Correlation 
+8. Card Type Churn Rate 
+9. Active Membership and Churn Rate 
+10. Estimated Salary Comparison: Churned vs Retained
 
