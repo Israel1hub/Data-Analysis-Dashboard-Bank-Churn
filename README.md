@@ -49,3 +49,25 @@ leaving, why they’re leaving, and what we can do to keep them!
 
 <img width="928" height="407" alt="churn bank page 4" src="https://github.com/user-attachments/assets/1527313e-e7d4-4187-b740-81418b22b464" />
 
+## Project Insight 
+
+- Churn by credit score: 
+A coefficient of -0.44 indicates as Credit score increases, churn rate decreases although its not extremely strong but noticeable
+
+- Churn by Age : 
+A coefficent of 0.50 indicate as Age increases, Churn rate increases. Older customers churn more often than younger customers.
+
+- Churn by Gender:
+ There are more Male than Female but there is higher Churn rate in Female than Male.
+
+- Churn rate by Location:
+Germany  ranked the second highest total population of (2059) but has the highest churn of (32.44%)
+
+- Churn rate by Complain : 
+About (99.51%) of customers that made complain left which can be the significant reason customers churned.
+
+- Churn rate by Product Number: 
+Product number 4 presents(100%) churn rate likewise Product Number 3 which recorded (82.71%) churn rate.
+
+<img width="1522" height="684" alt="image" src="https://github.com/user-attachments/assets/183b89d6-dec6-413e-aa3d-bc58a2f86a96" />
+
