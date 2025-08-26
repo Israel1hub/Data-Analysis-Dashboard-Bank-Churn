@@ -11,3 +11,4 @@ leaving, why they’re leaving, and what we can do to keep them!
 
 ## Dataset used 
 https://docs.google.com/spreadsheets/d/1-dPCgGlKRVRzFJA4S34Tl-EHPk9SWJ2q/edit?usp=drive_link&ouid=105395184555657070583&rtpof=true&sd=true
+- <a href="https://github.com/Israel1hub/Data-Analysis-Dashboard-Bank-Churn/blob/main/bank%20churn%20complete%20set%20(version%202)%20latest.xlsx"Dataset</a>
