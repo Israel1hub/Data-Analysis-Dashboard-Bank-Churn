@@ -37,3 +37,15 @@ leaving, why they’re leaving, and what we can do to keep them!
 
 -Dashboard Interaction <a href="https://github.com/Israel1hub/Data-Analysis-Dashboard-Bank-Churn/blob/main/bank%20churn%20complete%20set%20(version%202)%20latest.xlsx"> View Dashboard</a>
 
+## Process
+- verify data for any missing values and anomalies, and sort it out
+-  Made sure the data are consistent to their type
+-  Replaced churn values which were 1 and 0 to "Yes" and "No"
+- Created pivot table according to the questions asked
+- Merge all pivot tables  into two dashboard and applied slicers to make it dynamic.
+
+## Dashboard 
+<img width="926" height="407" alt="Churn bank page1" src="https://github.com/user-attachments/assets/bc5eb539-318f-40fd-9bea-f4ead7cc1b2f" />
+
+<img width="928" height="407" alt="churn bank page 4" src="https://github.com/user-attachments/assets/1527313e-e7d4-4187-b740-81418b22b464" />
+
