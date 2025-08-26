@@ -69,5 +69,7 @@ Germany  ranked the second highest total population of (2059) but has the highes
 - Churn rate by Product Number: 
 Product number 4 presents(100%) churn rate likewise Product Number 3 which recorded (82.71%) churn rate.
 
-<img width="1522" height="684" alt="image" src="https://github.com/user-attachments/assets/183b89d6-dec6-413e-aa3d-bc58a2f86a96" />
+## Conclusion 
+
+About (99.51%) of customers that made complain left which can be the significant reason customers churned
 
