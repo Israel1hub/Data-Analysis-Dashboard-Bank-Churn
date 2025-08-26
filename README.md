@@ -71,5 +71,5 @@ Germany  ranked the second highest total population of (2059) but has the highes
 
 ## Conclusion 
 
-About (99.51%) of customers that made complain left which can be the significant reason customers churned
+About (99.51%) of customers that made complain left which can be the significant reason customers churned
 
